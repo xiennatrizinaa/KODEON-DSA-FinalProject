@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch EVENTIFY",
+            "request": "launch",
+            "mainClass": "eventify.Main",
+            "cwd": "${workspaceFolder}/KODEON-DSA-FinalProject"
+        }
+    ]
+}
